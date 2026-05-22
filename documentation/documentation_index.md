@@ -19,4 +19,4 @@
 - [[module_main_service]] : L'orchestrateur principal, le serveur web, et le gestionnaire de cycle de vie des positions.
 
 ---
-*Généré suivant le standard Agent-Ready (MemPalace)*
+*Généré suivant le standard Agent-Ready ([MemPalace](https://github.com/ASyhnes/skills_Source-de-verite)), agent developper par David C.*
